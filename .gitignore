@@ -1,0 +1,7 @@
+*~
+*.pyc
+docs/_build/*
+uploads
+sidik/conf/local/*.py
+dev.db
+sidik.egg-info
